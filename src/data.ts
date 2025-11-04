@@ -40,14 +40,14 @@ export const paintings: Painting[] = [
   artist: "Rembrandt van Rijn",
   year: 1642,
   style: PaintingStyle.Renaissance,
-  imageUrl: "https://upload.wikimedia.org/wikipedia/commons/2/26/Rembrandt_-_De_Nachtwacht_-_Google_Art_Project.jpg"
+  imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Rembrandt_Harmensz._van_Rijn_-_Nachtwacht_-_Google_Art_Project.jpg/1446px-Rembrandt_Harmensz._van_Rijn_-_Nachtwacht_-_Google_Art_Project.jpg?20110212003431"
  },
  {
   title: "Girl with a Pearl Earring",
   artist: "Johannes Vermeer",
   year: 1665,
   style: PaintingStyle.Renaissance,
-  imageUrl: "https://upload.wikimedia.org/wikipedia/commons/d/d7/Meisje_met_de_parel.jpg"
+  imageUrl: "https://museum.royaldelft.com/wp-content/uploads/2024/01/0670_repro_2-e1706639411534.jpg"
  },
  {
   title: "The Scream",
@@ -61,7 +61,7 @@ export const paintings: Painting[] = [
   artist: "Sandro Botticelli",
   year: 1486,
   style: PaintingStyle.Renaissance,
-  imageUrl: "https://upload.wikimedia.org/wikipedia/commons/1/1c/Birth_of_Venus_Botticelli.jpg"
+  imageUrl: "https://cdn.britannica.com/51/239351-138-0D6B3C28/Sandro-Botticelli-Birth-of-Venus.jpg?w=800&h=450&c=crop"
  },
  {
   title: "Guernica",
@@ -75,70 +75,70 @@ export const paintings: Painting[] = [
   artist: "Claude Monet",
   year: 1916,
   style: PaintingStyle.Impressionism,
-  imageUrl: "https://upload.wikimedia.org/wikipedia/commons/0/0b/Claude_Monet_-_Water_Lilies_-_Google_Art_Project.jpg"
+  imageUrl: "https://www.artic.edu/iiif/2/3c27b499-af56-f0d5-93b5-a7f2f1ad5813/full/843,/0/default.jpg"
  },
  {
   title: "The Kiss",
   artist: "Gustav Klimt",
   year: 1908,
   style: PaintingStyle.Modern,
-  imageUrl: "https://upload.wikimedia.org/wikipedia/commons/7/7c/The_Kiss_-_Gustav_Klimt_-_Google_Cultural_Institute.jpg"
+  imageUrl: "https://upload.wikimedia.org/wikipedia/commons/4/40/The_Kiss_-_Gustav_Klimt_-_Google_Cultural_Institute.jpg"
  },
  {
   title: "American Gothic",
   artist: "Grant Wood",
   year: 1930,
   style: PaintingStyle.Modern,
-  imageUrl: "https://upload.wikimedia.org/wikipedia/commons/7/78/Grant_Wood_-_American_Gothic_-_Google_Art_Project.jpg"
+  imageUrl: "https://upload.wikimedia.org/wikipedia/commons/c/cc/Grant_Wood_-_American_Gothic_-_Google_Art_Project.jpg"
  },
  {
   title: "The Last Supper",
   artist: "Leonardo da Vinci",
   year: 1498,
   style: PaintingStyle.Renaissance,
-  imageUrl: "https://upload.wikimedia.org/wikipedia/commons/4/4b/Leonardo_da_Vinci_-_The_Last_Supper_high_res.jpg"
+  imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/The-Last-Supper-Restored-Da-Vinci_32x16.jpg/2560px-The-Last-Supper-Restored-Da-Vinci_32x16.jpg"
  },
  {
   title: "The Great Wave off Kanagawa",
   artist: "Hokusai",
   year: 1831,
   style: PaintingStyle.Modern,
-  imageUrl: "https://upload.wikimedia.org/wikipedia/commons/0/0a/Great_Wave_off_Kanagawa2.jpg"
+  imageUrl: "https://upload.wikimedia.org/wikipedia/commons/0/0d/Great_Wave_off_Kanagawa2.jpg"
  },
  {
   title: "A Sunday Afternoon on the Island of La Grande Jatte",
   artist: "Georges Seurat",
   year: 1886,
   style: PaintingStyle.Impressionism,
-  imageUrl: "https://upload.wikimedia.org/wikipedia/commons/4/4d/Georges_Seurat_-_A_Sunday_on_La_Grande_Jatte_--_1884_-_Google_Art_Project.jpg"
+  imageUrl: "https://upload.wikimedia.org/wikipedia/commons/6/67/A_Sunday_on_La_Grande_Jatte%2C_Georges_Seurat%2C_1884.png"
  },
  {
   title: "The Garden of Earthly Delights",
   artist: "Hieronymus Bosch",
   year: 1505,
   style: PaintingStyle.Renaissance,
-  imageUrl: "https://upload.wikimedia.org/wikipedia/commons/0/0a/The_Garden_of_Earthly_Delights_by_Bosch_High_Resolution.jpg"
+  imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/The_Garden_of_earthly_delights.jpg/1200px-The_Garden_of_earthly_delights.jpg"
  },
  {
   title: "The Creation of Adam",
   artist: "Michelangelo",
   year: 1512,
   style: PaintingStyle.Renaissance,
-  imageUrl: "https://upload.wikimedia.org/wikipedia/commons/6/6c/Michelangelo_-_Creation_of_Adam_%28cropped%29.jpg"
+  imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Creaci%C3%B3n_de_Ad%C3%A1n.jpg/2560px-Creaci%C3%B3n_de_Ad%C3%A1n.jpg"
  },
  {
   title: "Nighthawks",
   artist: "Edward Hopper",
   year: 1942,
   style: PaintingStyle.Modern,
-  imageUrl: "https://upload.wikimedia.org/wikipedia/commons/7/79/Nighthawks_by_Edward_Hopper_1942.jpg"
+  imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Nighthawks_by_Edward_Hopper_1942.jpg/2560px-Nighthawks_by_Edward_Hopper_1942.jpg"
  },
  {
   title: "Composition VIII",
   artist: "Wassily Kandinsky",
   year: 1923,
   style: PaintingStyle.Abstract,
-  imageUrl: "https://upload.wikimedia.org/wikipedia/commons/d/d0/Vassily_Kandinsky%2C_1923_-_Composition_8.jpg"
+  imageUrl: "https://www.guggenheim.org/wp-content/uploads/1923/01/37.262_ph_web-1.jpg"
  },
  {
   title: "The Sleeping Gypsy",
